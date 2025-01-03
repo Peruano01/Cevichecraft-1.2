@@ -1732,6 +1732,7 @@
       "minecraft:dripstone_caves": "2024-12-18 06:43:54 +0000",
       "minecraft:forest": "2024-12-18 06:31:50 +0000",
       "minecraft:lush_caves": "2024-12-19 06:22:46 +0000",
+      "minecraft:desert": "2025-01-03 02:42:26 +0000",
       "minecraft:ocean": "2024-12-19 05:58:04 +0000",
       "minecraft:jungle": "2024-12-19 22:35:34 +0000",
       "minecraft:flower_forest": "2024-12-19 05:58:49 +0000",
@@ -9564,15 +9565,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_item": "2024-12-30 02:47:37 +0000"
+      "has_snowball": "2024-12-30 02:31:51 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_item": "2024-12-30 02:47:40 +0000"
+      "has_snowball": "2024-12-30 02:31:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-30 02:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-30 02:31:59 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-12-30 02:32:06 +0000"
     },
     "done": true
   },
@@ -9582,15 +9601,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-30 02:32:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-30 02:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-30 02:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-30 02:32:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-30 02:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-30 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-30 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2024-12-30 02:38:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2024-12-30 02:38:15 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/chainmail_gloves_repairing": {
+    "criteria": {
+      "has_chainmail_gloves": "2024-12-30 02:38:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-30 02:38:34 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_cartography_table": {
+  "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
-      "has_paper": "2024-12-30 03:05:44 +0000"
+      "has_diamond_sword": "2024-12-30 02:43:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-30 02:43:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2024-12-30 02:43:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:hunter_pistol": {
+    "criteria": {
+      "weapon": "2024-12-30 02:43:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2024-12-30 02:44:01 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-30 02:44:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 02:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-30 02:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-30 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-30 02:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-30 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-30 02:44:42 +0000"
     },
     "done": true
   },
@@ -9606,153 +9751,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2024-12-30 02:44:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-30 02:44:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2024-12-30 02:44:01 +0000"
-    },
-    "done": true
-  },
-  "sereneseasons:recipes/tools/calendar": {
-    "criteria": {
-      "has_clock": "2024-12-30 02:32:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-30 02:31:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2024-12-30 02:43:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-12-30 03:05:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-30 02:33:00 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:bluemoon_tools": {
-    "criteria": {
-      "soulsweapons:bluemoon_shortsword": "2024-12-30 02:38:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2024-12-30 02:43:46 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2024-12-30 02:46:57 +0000"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/painting": {
-    "criteria": {
-      "has_item": "2024-12-30 03:05:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-30 02:44:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-30 02:44:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2024-12-30 02:32:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2024-12-30 02:31:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2024-12-30 02:47:40 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:hunter_pistol": {
-    "criteria": {
-      "weapon": "2024-12-30 02:43:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2024-12-30 02:31:51 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2024-12-30 02:44:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain_sticky": {
-    "criteria": {
-      "has_item": "2024-12-30 02:47:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2024-12-30 02:47:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2024-12-30 02:32:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2024-12-30 02:43:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2024-12-30 02:32:30 +0000"
     },
     "done": true
   },
@@ -9762,33 +9763,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-30 02:46:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2024-12-30 02:47:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_boots": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
-      "has_item": "2024-12-30 02:32:30 +0000"
+      "has_sea_serpent_scales_blue": "2024-12-30 02:47:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
-      "has_paper": "2024-12-30 03:05:44 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "bluemoon_short": "2024-12-30 02:38:15 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2024-12-30 02:46:57 +0000"
+      "has_item": "2024-12-30 02:47:37 +0000"
     },
     "done": true
   },
@@ -9798,39 +9793,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2024-12-30 02:44:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2024-12-30 03:05:44 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-30 02:47:37 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_gloves_repairing": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_chainmail_gloves": "2024-12-30 02:38:33 +0000"
+      "has_item": "2024-12-30 02:47:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_chestplate": {
+  "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
-      "has_item": "2024-12-30 02:32:30 +0000"
+      "has_item": "2024-12-30 02:47:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
+  "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
-      "has_nether_wart": "2024-12-30 02:44:42 +0000"
+      "has_item": "2024-12-30 02:47:52 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2024-12-30 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-30 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2024-12-30 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-30 03:05:44 +0000"
     },
     "done": true
   },
@@ -9846,27 +9865,87 @@
     },
     "done": true
   },
-  "immersive_paintings:misc/glow_painting": {
-    "criteria": {
-      "has_item": "2024-12-30 02:49:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-30 03:05:44 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/crossbow_repairing": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_crossbow": "2024-12-30 02:36:05 +0000"
+      "wither_skull": "2025-01-03 02:12:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_snowball": "2024-12-30 02:31:51 +0000"
+      "has_wither_skeleton_skull": "2025-01-03 02:12:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-01-03 02:12:03 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2025-01-03 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/test_tube": {
+    "criteria": {
+      "has_item": "2025-01-03 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_rune": {
+    "criteria": {
+      "has_rune": "2025-01-03 02:12:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-03 02:19:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-01-03 02:20:53 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-01-03 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-03 02:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-03 02:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-03 02:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-03 02:51:30 +0000"
     },
     "done": true
   },

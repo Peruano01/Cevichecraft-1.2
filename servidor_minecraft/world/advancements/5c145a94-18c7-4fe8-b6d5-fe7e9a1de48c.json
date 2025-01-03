@@ -14861,123 +14861,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_fence": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_table": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crimson_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_crate": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-31 02:07:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_coffee_table": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
     },
     "done": true
   },
@@ -14993,21 +14885,81 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+  "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+      "has_log": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+  "cfm:recipes/decorations/crimson_table": {
     "criteria": {
-      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_crate": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
@@ -15041,15 +14993,189 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/warped_window": {
+  "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
-      "has_ingredient": "2024-12-31 02:07:33 +0000"
+      "has_logs": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+  "cfm:recipes/decorations/crimson_crate": {
     "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_desk": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_table": {
+    "criteria": {
+      "has_planks": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_blinds": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-31 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
     },
     "done": true
   },
@@ -15065,105 +15191,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_crate": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_sandstone_wall": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
@@ -15179,87 +15209,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_desk": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 04:20:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_table": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:07:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_blinds": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-12-31 04:21:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2024-12-31 02:07:33 +0000"
     },
     "done": true
   },
@@ -15269,33 +15221,81 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_crimson_cabinet": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
+      "has_lapis_block": "2024-12-31 04:21:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
-      "has_planks": "2024-12-31 03:54:35 +0000"
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_kitchen_counter": {
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 04:47:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2024-12-31 04:47:09 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-31 02:09:19 +0000"
     },
     "done": true
   },
